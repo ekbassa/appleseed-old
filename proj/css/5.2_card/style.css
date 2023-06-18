@@ -1,0 +1,37 @@
+.main {
+    width: 100%;
+    height: 100%;
+}
+
+.card {
+    background: url('/proj/images/sean-oulashin-KMn4VEeEPR8-unsplash.jpg') no-repeat center center/cover;
+     /* background-size: 150px;  */
+    width: 50%;
+    height: 500px;
+    border: 2px solid;
+    border-radius: 10px;
+    margin: 0 auto;
+    margin-top: 10%;
+
+  }
+  .card-content .top {
+    padding: 20px;
+    width: 300px;
+    height: 220px;
+    background: url('/proj/images/RunnerI-unsplash.jpg') no-repeat center center/cover;
+    margin: 15px auto;
+  }
+  .card-content .bottom {
+    background-color: #fff;
+    text-align: left;
+    padding: 20px;
+    width: 300px;
+    height: 150px;
+    margin: 10px auto;
+    color: #333;
+  }
+ 
+  
+  .bottom span {
+    color: blue;
+  }
