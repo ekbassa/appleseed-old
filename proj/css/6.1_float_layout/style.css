@@ -1,0 +1,50 @@
+.main-border {
+    border: 1px solid black;
+    height: 600px;
+    position: relative;
+
+}
+
+py-1 {padding: 20px 0;}
+
+.header .header-rec {
+    border: 1px solid black;
+    height: 50px;
+    background-color: orange;
+    text-align: center;
+    width: 800px;
+    margin: 10px auto;
+}
+
+
+.container .side-left-rec{
+    float: left;
+    border: 1px solid black;
+    height: 200px;
+    background-color: green;
+    text-align: left;
+    width: 200px;
+    margin-left: 29%;
+
+}
+.container .main-rec {
+    float: right;
+    border: 1px solid black;
+    height: 200px;
+    background-color: blueviolet;
+    text-align: right;
+    width: 580px;
+    margin-right: 29%;
+}
+.footer-content{
+    border: 1px solid black;
+    height: 50px;
+    background-color: blue;
+    text-align: center;
+    width: 800px;
+    margin: 220px auto;
+
+    
+}
+
+
