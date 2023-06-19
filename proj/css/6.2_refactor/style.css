@@ -1,0 +1,34 @@
+.container {
+    width: 1000px;
+    height: 600px;
+    background: url('/proj/images/sean-oulashin-KMn4VEeEPR8-unsplash.jpg') no-repeat center center/cover;
+    display: block;
+}
+.wrap-image {
+    padding: 15px;
+    margin: 25px auto;
+
+}
+img {
+    float: right;
+}
+
+.lead {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color: black;
+    text-align: left;
+}
+.personal-details {
+    border: 1px solid;
+    float: left;
+    text-align: left;
+    font-size: 25px;
+    color: blue;
+    background-color: transparent;
+}
+.footer-details {
+    padding: 300px 0;
+    margin-left: 70%;
+    
+}

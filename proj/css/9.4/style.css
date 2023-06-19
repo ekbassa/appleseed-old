@@ -1,0 +1,46 @@
+/* Reset */
+* {
+    margin: 0;
+    padding: 0; 
+    box-sizing: border-box;
+}
+
+/* Main Elements */
+html,body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.7em;
+    
+}
+
+.container {
+    text-align: center;
+    width: 800px;
+    height: 800px;
+    background-color: #333;
+    
+}
+ul {
+    list-style-type: none;
+    margin-top: 40px;
+    padding: 30px;
+    background-color: orange;
+  }
+  
+  li {
+    display: inline;
+  }
+  .container a {
+    color: #fff;
+    margin: 30px;
+  }
+
+    /* Smart phones */
+    @media(max-width: 500px){
+        body {
+            background: red;
+        }
+        
+    }
+
+    
+
